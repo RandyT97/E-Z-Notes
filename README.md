@@ -5,7 +5,7 @@
 
 **Team Members:**
 
-[Randy Tsui](https://github.com/jawyuhz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring '20
+[Randy Tsui](https://github.com/RandyT97)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring '20
 
 [Travis Raghubans](https://github.com/traghubans) &nbsp;&nbsp;&nbsp;&nbsp;Spring '20
 
